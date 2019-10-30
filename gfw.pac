@@ -1,4 +1,4 @@
-var proxy = "SOCKS5 10.0.0.1:8080; PROXY 10.0.0.1:3128; DIRECT";
+var proxy = "SOCKS5 127.0.0.1:10808; PROXY 10.0.0.1:3128; DIRECT";
 
 var direct = 'DIRECT;';
 
@@ -11781,6 +11781,7 @@ var domainsUsingProxy = {
   "dupola.com": 1, 
   "dupola.net": 1, 
   "dushi.ca": 1, 
+  "duyaoss.com": 1, 
   "dvdpac.com": 1, 
   "dvorak.org": 1, 
   "dw-world.com": 1, 
